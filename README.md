@@ -256,10 +256,16 @@ export POSTPROCESS_FORCE=1  # Force reprocessing of existing files
 ## Citation
 
 ```bibtex
-@inproceedings{,
-  title={Iterative LLM-based improvement for French Clinical Interview Transcription and Speaker Diarization},
-  author={Marie, Ambre and Bertin, Thomas and Dardenne, Guillaume and Quellec, Gwenol{\'e}},
-  booktitle={},
-  year={2026}
+@unpublished{marie:hal-05512777,
+  TITLE = {{Iterative LLM-based improvement for French Clinical Interview Transcription and Speaker Diarization}},
+  AUTHOR = {Marie, Ambre and Bertin, Thomas and Dardenne, Guillaume and Quellec, Gwenol{\'e}},
+  URL = {https://hal.science/hal-05512777},
+  NOTE = {preprint submitted to Interspeech},
+  YEAR = {2026},
+  MONTH = Feb,
+  KEYWORDS = {clinical interview transcription ; French medical conversations ; speaker attribution ; LLM post-processing ; clinical interview transcription ; automatic speech recognition clinical interview transcription LLM post-processing speaker attribution French medical conversations ; automatic speech recognition},
+  PDF = {https://hal.science/hal-05512777v1/file/template.pdf},
+  HAL_ID = {hal-05512777},
+  HAL_VERSION = {v1},
 }
 ```
