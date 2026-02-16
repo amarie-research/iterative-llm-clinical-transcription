@@ -1,0 +1,39 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Results (large files)
+results/
+*.xlsx
+*.csv
+
+# Data (sensitive/large files)
+data/audio_mp3/*.mp3
+data/audio_wav/*.wav
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
