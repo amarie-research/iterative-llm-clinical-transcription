@@ -1,4 +1,4 @@
-# LLM Post-Processing for Medical Dialogue Transcription
+# Iterative LLM-based Improvement for French Clinical Interview Transcription and Speaker Diarization
 
 Code repository for the paper: **"Iterative LLM-based improvement for French Clinical Interview Transcription and Speaker Diarization"**
 
